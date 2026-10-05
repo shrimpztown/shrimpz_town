@@ -1,0 +1,1 @@
+Put your product, logo, profile and cover images in this folder, then reference their paths from index.html.
